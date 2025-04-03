@@ -1,9 +1,6 @@
 # VTFCGNet: A novel cross-modal reasoning network integrating Fourier self-attention and graph attention for visual text question answering
 For more details about the method, please refer to the paper
 
-
-
-
 ## Dataset Setup
 You can download the data [website](http://vtqa-challenge.fixtankwun.top:20010/).
 Unzip the files and place them as follows:
@@ -15,15 +12,14 @@ data
 │   └── test_dev
 └── annotations
 ```
-
-## Config Introduction
-```text
-pip install -r requirements.txt
-```
 ## Clone demo code
 ```text
 cd /workspace
 git clone https://github.com/ghy-yhg/VTFCGNet
+```
+## Config Introduction
+```text
+pip install -r requirements.txt
 ```
 ## Train, val & test
 ```text
