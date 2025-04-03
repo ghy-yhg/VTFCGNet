@@ -1,12 +1,12 @@
-# [VTFCGNet: A novel cross-modal reasoning network integrating Fourier self-attention and graph attention for visual text question answering](http://vtqa-challenge.fixtankwun.top:20010/)
+# [VTFCGNet: A novel cross-modal reasoning network integrating Fourier self-attention and graph attention for visual text question answering](http://)
 
-[**Yujie Huo, Weng Howe Chan, Song Yu and Hongyu Gao**](http://vtqa-challenge.fixtankwun.top:20010/)
+[**Yujie Huo, Weng Howe Chan, Song Yu and Hongyu Gao**](http://)
 
 
 ### For more details about the method, please refer to the paper
 
 ## Dataset Setup
-You can download the data [website](http://vtqa-challenge.fixtankwun.top:20010/).
+You can download the data [website](http://vtqa-challenge.fixtankwun.top:20010).
 Unzip the files and place them as follows:
 ```text
 data
