@@ -1,7 +1,7 @@
 # VTFCGNet: A novel cross-modal reasoning network integrating Fourier self-attention and graph attention for visual text question answering
 For more details about the method, please refer to the paper
 
-![Model overall framework flow chart](图片链接 "图片标题")
+
 
 
 ## Dataset Setup
