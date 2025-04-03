@@ -37,7 +37,7 @@ If this repository is helpful for your research, we'd really appreciate it if yo
 
 @article{Currently submitted to The visual computer,
   author    = {Yujie Huo and Weng Howe Chan and Song Yu and Hongyu Gao},
-  title     = {VTFCGNet: A Fourier Frequency and Spatial Attention Filtering Mechanism for Entity Alignment and Cross-Modal Reasoning in Visual Text Question Answering},
+  title     = {VTFCGNet: A novel cross-modal reasoning network integrating Fourier self-attention and graph attention for visual text question answering},
   journal   = {The Visual Computer},
   year      = {2025},
   doi       = {We will update the above DOI after the paper is officially published}
