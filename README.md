@@ -6,7 +6,7 @@
 ### For more details about the method, please refer to the paper
 
 ## Dataset Setup
-You can download the data [website](http://vtqa-challenge.fixtankwun.top:20010).
+You can download the data [website](https://huggingface.co/datasets/CalfKing/vtqa2023)
 Unzip the files and place them as follows:
 ```text
 data
