@@ -1,2 +1,0 @@
-from .kecmr import Net
-

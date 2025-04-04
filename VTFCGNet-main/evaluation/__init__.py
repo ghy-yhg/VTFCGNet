@@ -1,1 +1,0 @@
-from .vtqa_eval import vtqa_eval
