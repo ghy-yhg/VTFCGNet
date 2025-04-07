@@ -37,7 +37,7 @@ If this repository is helpful for your research, we'd really appreciate it if yo
 
 ```
 
-@article{Currently submitted to Applied Intelligence,
+@article{journal,
   author    = {Yujie Huo and Weng Howe Chan and Song Yu and Hongyu Gao},
   title     = {VTFCGNet: A novel cross-modal reasoning network integrating Fourier self-attention and graph attention for visual text question answering},
   journal   = {},
