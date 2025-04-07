@@ -40,7 +40,7 @@ If this repository is helpful for your research, we'd really appreciate it if yo
 @article{Currently submitted to Applied Intelligence,
   author    = {Yujie Huo and Weng Howe Chan and Song Yu and Hongyu Gao},
   title     = {VTFCGNet: A novel cross-modal reasoning network integrating Fourier self-attention and graph attention for visual text question answering},
-  journal   = {Applied Intelligence},
+  journal   = {},
   year      = {2025},
   doi       = {We will update the above DOI after the paper is officially published}
 }
